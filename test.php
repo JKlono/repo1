@@ -1,5 +1,5 @@
 <?php
-
+//Test script
 $user = "joe";
 $pass = "mypassworfd";
 $conn = new PDO("mysql:host=localhost;dbname=test", $user, $pass);
