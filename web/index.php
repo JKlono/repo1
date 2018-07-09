@@ -19,6 +19,8 @@
   <p>&nbsp;</p>
   <p class="style1">Testing Stuff and Things</p>
   <p>If you see this, it worked </p>
+  <p>&nbsp;</p>
+  <p><a href="test.php">Link to test page </a></p>
 </div>
 </body>
 </html>
